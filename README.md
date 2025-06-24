@@ -1,4 +1,4 @@
-## 💻 Tech Stack
+## 📚 Tech Stack
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## 🧩 Projects
+## 📌 Projects
 
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
