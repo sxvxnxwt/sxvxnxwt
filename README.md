@@ -19,9 +19,9 @@
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
 | 🚗 ParkingMate | AI 기반 서울시 공영주차장 추천 웹 서비스 | [🔗 GitHub](https://github.com/sxvxnxwt/parkingmate) |
-| 📰 newstart | 네이버 기사 요약 제공 서비스 | [🔗 GitHub](https://github.com/sxvxnxwt/newstart) |
+| 📰 Newstart | 네이버 기사 요약 제공 서비스 | [🔗 GitHub](https://github.com/sxvxnxwt/newstart) |
 | 🛒 GCShop | Node.js 기반 쇼핑몰 웹 서비스 | [🔗 GitHub](https://github.com/sxvxnxwt/gcshop) |
-| 💡 pioneers | 창업 아이템 홍보용 MBTI 테스트 서비스 | [🔗 GitHub](https://github.com/sxvxnxwt/pioneers) |
+| 💡 Pioneers | 창업 아이템 홍보용 MBTI 테스트 서비스 | [🔗 GitHub](https://github.com/sxvxnxwt/pioneers) |
 | 📚 BookSphere | 진행 중 | [🔗 GitHub-FE](https://github.com/sxvxnxwt/booksphere-frontend) <br> [🔗 GitHub-BE](https://github.com/sxvxnxwt/booksphere-backendend) |
 
 ## 📈 GitHub Stats
