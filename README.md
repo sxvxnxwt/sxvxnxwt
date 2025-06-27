@@ -24,6 +24,8 @@
 
 </div>
 
+<br/>
+
 ## 📌 Projects
 
 | 프로젝트명 | 설명 | 링크 |
@@ -34,6 +36,8 @@
 | 💡 Pioneers | 창업 아이템 홍보용 MBTI 테스트 서비스 | [🔗 GitHub](https://github.com/sxvxnxwt/pioneers) |
 | 📚 BookSphere | 진행 중 | [🔗 GitHub-FE](https://github.com/sxvxnxwt/booksphere-frontend) <br> [🔗 GitHub-BE](https://github.com/sxvxnxwt/booksphere-backendend) |
 
+<br/>
+
 ## 📈 GitHub Stats
 
 <div align="left">
@@ -42,7 +46,13 @@
 
 </div>
 
+<br/>
+
 ## 📫 Contact
 
 - ✉️ Email : gimminji1365@naver.com
+
+<br/>
+
+## 📝 Blog
 - 🖍️ Velog : [sxvxnxwt.log](https://velog.io/@sxvxnxwt)
