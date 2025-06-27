@@ -14,6 +14,16 @@
 
 </div>
 
+## 📖 Learning..
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+
+</div>
+
 ## 📌 Projects
 
 | 프로젝트명 | 설명 | 링크 |
