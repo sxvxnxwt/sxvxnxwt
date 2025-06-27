@@ -44,5 +44,5 @@
 
 ## 📫 Contact
 
-- ✉️ Email: gimminji1365@naver.com
+- ✉️ Email : gimminji1365@naver.com
 - 🖍️ Velog : [sxvxnxwt.log](https://velog.io/@sxvxnxwt)
