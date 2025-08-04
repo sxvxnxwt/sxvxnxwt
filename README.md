@@ -35,7 +35,7 @@
 | 🛒 GCShop | Node.js 기반 쇼핑몰 웹 서비스 | [🔗 GitHub](https://github.com/sxvxnxwt/gcshop) |
 | 💡 Pioneers | 창업 아이템 홍보용 MBTI 테스트 서비스 | [🔗 GitHub](https://github.com/sxvxnxwt/pioneers) |
 | 📚 BookSphere | 진행 예정 | [🔗 GitHub-FE](https://github.com/sxvxnxwt/booksphere-frontend) <br> [🔗 GitHub-BE](https://github.com/sxvxnxwt/booksphere-backendend) |
-| 👔 다시, 일자리 | AI 시니어 구직 도우미 웹 서비스 | [🔗 GitHub] 추후 공개 예정 |
+| 👔 다시, 일자리 | AI 시니어 구직 도우미 웹 서비스 | 추후 공개 예정 |
 
 <br/>
 
